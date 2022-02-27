@@ -1,0 +1,15 @@
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\Seriados.exe
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\Seriados.deps.json
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\Seriados.runtimeconfig.json
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\Seriados.dll
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\ref\Seriados.dll
+C:\workspace\app_serie\Seriados\bin\Debug\net6.0\Seriados.pdb
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.csproj.AssemblyReference.cache
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.AssemblyInfoInputs.cache
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.AssemblyInfo.cs
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.csproj.CoreCompileInputs.cache
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.dll
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\ref\Seriados.dll
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.pdb
+C:\workspace\app_serie\Seriados\obj\Debug\net6.0\Seriados.genruntimeconfig.cache
